@@ -1,5 +1,3 @@
-// var let const
-
 const primeiroValor = 10;
 const segundoValor = 20;
 
@@ -12,4 +10,6 @@ console.log("terceiroValor: ", terceiroValor);
 
 terceiroValor = 100;
 console.log("terceiroValor final: ", terceiroValor);
+
+
 
