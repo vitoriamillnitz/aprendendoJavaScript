@@ -10,5 +10,5 @@ console.log("Amanda está em qual índice do nosso array?", listaDeConvidados.in
 console.log("Amanda está em qual número da lista?", listaDeConvidados.indexOf("Amanda") + 1);
 
 const arrayQualquer = ["Vitoria", true, 24, {valor1: 10, valor2: 20}];
-console.log(arrayQualquer)
+console.log(arrayQualquer);
 
